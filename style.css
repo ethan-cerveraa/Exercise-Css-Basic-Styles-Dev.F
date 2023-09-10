@@ -1,0 +1,36 @@
+body{
+    background: #333533;
+    color: #a2d2ff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+img{
+    width: 400px;
+    border-radius: 8px;
+}
+h1{
+    color: #8338ec;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    color: #f15bb5;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+b{
+    color: #060;
+    font-weight: bold;
+}
+a{
+    color: red;
+    text-decoration: underline;
+    font-size: 22px;
+}
+.ThorHulk{
+    background-color: #000000;
+    color: #ffffff;
+    font-style: italic;
+}
